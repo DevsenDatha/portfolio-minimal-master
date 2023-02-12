@@ -1,7 +1,7 @@
 const main = {
   name: 'Devsen Datha Mukkamala',
   mail: 'Devsendathamukkamala@gmail.com',
-  img:  'Original.jpg',
+  img:  'IMG_0804.jpg',
   role: ['CS Grad at Depaul University, Chicago'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
